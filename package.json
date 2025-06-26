@@ -1,19 +1,29 @@
 {
   "name": "react-cli-toolkit",
   "version": "1.0.0",
-  "description": "",
+  "description": "An open-source NPM package CLI tool to create easy routes for your react app",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "start:dev": "nodemon test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Saumya-Kanti-Sarma/react-cli-toolkit.git"
+  },
+  "keywords": [
+    "react",
+    "react router dom",
+    "react plugins",
+    "CLI toolkit",
+    "react cli",
+    "react-router"
+  ],
   "bin": {
     "reactcli": "index.js"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Saumya Sarma",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.10"
