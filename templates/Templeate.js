@@ -1,6 +1,6 @@
 export const ReactTemplate = (Route) => {
-  return (`
-import React from 'react';
+  return (
+    `import React from 'react';
 const ${Route} = () => {
   return (
     <>
