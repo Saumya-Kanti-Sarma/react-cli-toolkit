@@ -1,5 +1,6 @@
 node_modules
-test
+test.js
 demo
 .vscode
 code.txt
+src
