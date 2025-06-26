@@ -2,7 +2,7 @@ import fs from "fs";
 
 export default function updateApp(fileName, path) {
   let appContent = fs.readFileSync("src/App.jsx", "utf-8");
-  const importLine = `import ${fileName} from "./pages/${fileName}.jsx";`;
+  const importLine = `import ${fileName} from "./pages/${fileName}/${fileName}.jsx";`;
 
   if (!appContent.includes(importLine)) {
     appContent = importLine + "\n" + appContent;

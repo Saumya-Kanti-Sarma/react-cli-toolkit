@@ -4,10 +4,11 @@ import { ReactTemplate } from "../templates/Templeate.js"
 import updateApp from "./updateApp.js";
 
 export default function createRoute(input) {
-  const pagesDir = path.join("src", "pages", input);
+  const FileName = input.charAt(0).toUpperCase() + input.slice(1);
+
+  const pagesDir = path.join("src", "pages", FileName);
   fs.mkdirSync(pagesDir, { recursive: true });
 
-  const FileName = input.charAt(0).toUpperCase() + input.slice(1);
   const filePath = path.join(pagesDir, `${FileName}`);
 
   fs.writeFileSync(`${filePath}.jsx`, `${ReactTemplate(`${FileName}`)}`);
