@@ -1,6 +1,6 @@
 {
   "name": "react-cli-toolkit",
-  "version": "1.0.1",
+  "version": "1.0.11",
   "description": "An open-source NPM package CLI tool to create easy routes for your react app",
   "main": "index.js",
   "type": "module",

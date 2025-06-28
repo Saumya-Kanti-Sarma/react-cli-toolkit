@@ -4,6 +4,12 @@
 
 **react-cli-toolkit** is a small, lightweight and dependency-free CLI tool that helps you create routes for your React app in a single command! ⚡
 
+## Watch Tutorial on Youtube
+<a href="https://www.youtube.com/watch?v=xuUmzRHWXlE">
+<img src="https://i9.ytimg.com/vi_webp/xuUmzRHWXlE/mqdefault.webp?v=685febf6&sqp=CIDY_8IG&rs=AOn4CLBV0ggkjZt6net64KuIxNZA4nM--Q">
+<h3 style="textAlign:start; color:#fff; ">How to use react-cli-toolkit in your react app | react cli toolkit tutorial | Developer Saumya</h3>
+</a>
+
 ## 🚀 Features
 - Zero dependencies
 - Automatic route creation
