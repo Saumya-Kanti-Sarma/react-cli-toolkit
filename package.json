@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Saumya-Kanti-Sarma/react-cli-toolkit.git"
+    "url": "git+https://github.com/Saumya-Kanti-Sarma/react-cli-toolkit.git"
   },
   "keywords": [
     "react",

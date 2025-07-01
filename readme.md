@@ -6,7 +6,7 @@
 
 ## Watch Tutorial on Youtube
 <a href="https://www.youtube.com/watch?v=xuUmzRHWXlE">
-<img src="https://i9.ytimg.com/vi_webp/xuUmzRHWXlE/mqdefault.webp?v=685febf6&sqp=CIDY_8IG&rs=AOn4CLBV0ggkjZt6net64KuIxNZA4nM--Q">
+<img src="https://azjgnoxfyygbnquzecyw.supabase.co/storage/v1/object/public/npm-packages//WhatsApp%20Image%202025-06-28%20at%2018.48.59_a51ae3eb.jpg" style="width: 300px">
 <h3 style="textAlign:start; color:#fff; ">How to use react-cli-toolkit in your react app | react cli toolkit tutorial | Developer Saumya</h3>
 </a>
 
